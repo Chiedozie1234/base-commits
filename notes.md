@@ -34,3 +34,4 @@ what does committing even mean?
 committing is a simple task
 it basically means inputting
 new things 
+to a repository file
