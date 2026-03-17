@@ -33,3 +33,4 @@ a por la 16
 what does committing even mean?
 committing is a simple task
 it basically means inputting
+new things 
