@@ -46,3 +46,4 @@ what is left
 for me to do
 the base code is dope
 the goal is to become an ai engineer
+base an army of builders
