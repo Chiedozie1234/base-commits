@@ -35,3 +35,4 @@ committing is a simple task
 it basically means inputting
 new things 
 to a repository file
+almost done with the 30s
