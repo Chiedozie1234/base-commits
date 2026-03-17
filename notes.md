@@ -88,3 +88,4 @@ all you need is the utility
 step 2 you announce a token
 then announce a drop of base tokens
 launch the base token
+now you have attracted more liquidity
