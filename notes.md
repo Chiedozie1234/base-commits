@@ -83,3 +83,4 @@ incentivize building
 and developing
 now you have an army of
 web apps
+your chain has the required liquidity
