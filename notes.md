@@ -22,7 +22,4 @@ done my first 20
 next stop is 50
 let's go till we win
 committer in chief
-half of 50
-what to committ next?
-push to your limits
-send this to the moon
+let's go guys
