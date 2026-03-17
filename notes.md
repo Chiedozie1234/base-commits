@@ -65,3 +65,4 @@ make base great again
 make ethereum great again
 make decentralization great again
 make crypto great again
+how to make base great
