@@ -90,3 +90,4 @@ then announce a drop of base tokens
 launch the base token
 now you have attracted more liquidity
 give the biggest l2 drop since
+arbitrum
