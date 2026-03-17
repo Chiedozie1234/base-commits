@@ -63,4 +63,5 @@ what of 7 figs
 build build
 make base great again
 make ethereum great again
-make decentralizatio great again
+make decentralization great again
+make crypto great again
