@@ -70,3 +70,4 @@ first step launch a base token
 oh shit that's not first lol
 30 to go
 once i am done 
+I am going to beddd
