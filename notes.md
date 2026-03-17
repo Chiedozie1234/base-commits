@@ -30,3 +30,4 @@ number 29
 number 30
 the plan is to win which is what we would do
 a por la 16
+what does committing even mean?
