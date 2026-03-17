@@ -68,3 +68,4 @@ make crypto great again
 how to make base great
 first step launch a base token
 oh shit that's not first lol
+30 to go
