@@ -94,3 +94,4 @@ arbitrum
 now your chain is complete
 next step incooperate privacy in the chain
 now the chain is institution friendly
+you have institution funds flowing in
