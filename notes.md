@@ -7,3 +7,4 @@ i am here thinking how my day would go
 builders assemble here
 what excites you the most about base?
 base would absolutely extraordinary
+i also think builders would the most valuable in base
