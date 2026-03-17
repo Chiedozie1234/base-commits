@@ -96,3 +96,4 @@ next step incooperate privacy in the chain
 now the chain is institution friendly
 you have institution funds flowing in
 you have more liquidity than ever
+your chain kickstarts altseason
