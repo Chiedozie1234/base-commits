@@ -66,3 +66,4 @@ make ethereum great again
 make decentralization great again
 make crypto great again
 how to make base great
+first step launch a base token
