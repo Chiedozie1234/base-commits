@@ -91,3 +91,4 @@ launch the base token
 now you have attracted more liquidity
 give the biggest l2 drop since
 arbitrum
+now your chain is complete
